@@ -13,7 +13,7 @@ It is a very user-friendly and user-interactive project that makes the work of a
 - User can add or delete their tasks.
 - User can view completed and uncompleted tasks.
 - Tasks remain the same and are visible even after refreshing the page.
-- User-friendly and User iteractive.
+- User-friendly and User interactive.
 
 ## What the project looks like
 ![to-do list page](https://github.com/sejalxz/To-do-List/blob/main/media/To-do-List.gif)
