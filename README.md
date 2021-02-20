@@ -10,10 +10,10 @@ It is a very user-friendly and user-interactive project that makes the work of a
 3. Submit the task by clicking on plus icon.
 
 ## Features
--User can add or delete their tasks.
--User can view completed and uncompleted tasks.
--Tasks remain the same and are visible even after refreshing the page.
--User-friendly and User iteractive.
+*User can add or delete their tasks.
+*User can view completed and uncompleted tasks.
+*Tasks remain the same and are visible even after refreshing the page.
+*User-friendly and User iteractive.
 
 ## What the project looks like
 ![to-do list page](https://github.com/sejalxz/To-do-List/blob/main/media/To-do-List.gif)
